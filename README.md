@@ -10,7 +10,7 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="SQL" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/cs/css3-original.svg](https://i.pinimg.com/originals/27/45/30/2745305c9702bceee2525cc24e1d00c2.png)">
+ <img align="center" alt="SQL" height="30" width="40" src="https://i.pinimg.com/originals/27/45/30/2745305c9702bceee2525cc24e1d00c2.png">
 </div>
  
 <br>
