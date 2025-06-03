@@ -14,7 +14,7 @@ Sou um entusiasta de tecnologia com foco em **dados**, apaixonado por **análise
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" alt="Excel" height="40"/>
   <img src="https://logowik.com/content/uploads/images/azure-sql-database6354.jpg" alt="SQL" height="40"/>
   <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python" height="40"/>
-  <img src="https://images.seeklogo.com/logo-png/40/1/power-bi-microsoft-logo-png_seeklogo-400711.png" alt="Power BI" height="40"/>
+  <img src=" https://images.seeklogo.com/logo-png/40/1/power-bi-microsoft-logo-png_seeklogo-400711.png" alt="Power BI" height="40"/>
 </p>
 
 ---
