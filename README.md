@@ -1,22 +1,43 @@
- ## Ola! Eu sou o Emanuel!
+## Olá! Eu sou o Emanuel! 👋
 
- <div>
-   <a href="https://github.com/Emanuel71">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Emanuel71&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuel71&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-    
-<div style="display: inline_block"><br>
- <img align="center" alt="Excel" height="30" width="40" src="https://logosmarcas.net/wp-content/uploads/2022/02/Excel-365Excel-2016-2019-Logo.png">
- <img align="center" alt="SQL" height="30" width="40" src="https://tse2.mm.bing.net/th?id=OIP.UIqoYN6a49pqw7nnrx2mjQHaIg&pid=Api&P=0&h=180">
- <img align="center" alt="SQL" height="30" width="40" src="https://static.wikia.nocookie.net/lpunb/images/b/b1/Logo_Python.png/revision/latest?cb=20130301171443">
-</div>
- 
-<br>
- 
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
- 
-<div> 
-   <a href = "mailto:emanuelcesar026@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/emanuel-c%C3%A9sar-3a15b5127/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+---
+
+### 📊 Sobre Mim
+
+Sou um entusiasta de tecnologia com foco em **dados**, apaixonado por **análise, SQL e automações**. Estou sempre buscando aprender e compartilhar conhecimentos sobre o mundo da programação e Business Intelligence!
+
+---
+
+### 🧠 Principais Habilidades
+
+<p align="left">
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" alt="Excel" height="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/sql.png" alt="SQL" height="40"/>
+  <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg" alt="Power BI" height="40"/>
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+![Emanuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Emanue171&show_icons=true&theme=radical)
+
+---
+
+### 🔥 Tecnologias Mais Usadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emanue171&layout=compact&theme=radical)
+
+---
+
+### 🌐 Vamos Conectar?
+
+Me acompanhe nas redes e fique por dentro dos meus projetos:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/emanuel-cesar)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emanuelcesar026@gmail.com)
+
+---
+
+> “Transformando dados em decisões inteligentes.” 🚀
