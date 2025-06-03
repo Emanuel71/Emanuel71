@@ -4,7 +4,7 @@
 
 ### 📊 Sobre Mim
 
-Sou um entusiasta de tecnologia com foco em **dados**, apaixonado por **análise, SQL e automações**. Estou sempre buscando aprender e compartilhar conhecimentos sobre o mundo da programação e Business Intelligence!
+Impulsionado a transformar dados em decisões, estou em transição de carreira para Análise de Dados. Minha experiência financeira me prepara para aprofundar em SQL, Power BI (dashboards, DAX) e Python (Pandas, NumPy, Matplotlib, Seaborn). Busco estágio para aplicar minha bagagem e entregar insights valiosos.
 
 ---
 
