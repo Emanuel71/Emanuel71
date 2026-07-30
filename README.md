@@ -2,7 +2,7 @@
 
 ### Consultor ERP TOTVS Protheus | AdvPL • SQL Server • Python
 
-Do **financeiro corporativo para a consultoria técnica**: passei mais de 3 anos operando o Protheus por dentro — tesouraria, contas a pagar, conciliação DDA — antes de migrar para o outro lado do balcão. Hoje, na **Genesis Consulting**, presto consultoria e sustentação ao ERP, unindo o que a maioria dos perfis técnicos não tem: **domínio real da regra de negócio que o código precisa atender**.
+Do **financeiro corporativo para a consultoria técnica**: passei mais de 3 anos operando o Protheus por dentro — tesouraria, contas a pagar, conciliação DDA — antes de migrar para o outro lado do balcão. Hoje, na **Genesis Consulting**, presto consultoria e sustentação ao ERP Protheus, unindo o que a maioria dos perfis técnicos não tem: **domínio real da regra de negócio que o código precisa atender**.
 
 ---
 
