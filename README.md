@@ -6,7 +6,7 @@ Do **financeiro corporativo para a consultoria técnica**: passei mais de 3 anos
 
 ---
 
-## 💼 O que eu entrego
+## 💼
 
 - **Consultoria e sustentação Protheus** — análise e resolução de incidentes, evolução de rotinas e apoio funcional/técnico ao módulo financeiro (SIGAFIN).
 - **Desenvolvimento AdvPL/TLPP** — customizações, pontos de entrada e relatórios alinhados à regra de negócio, não só ao chamado.
