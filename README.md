@@ -1,43 +1,41 @@
-## Olá! Eu sou o Emanuel! 👋
+# Olá, eu sou o Emanuel 👋
+
+### Consultor ERP TOTVS Protheus | AdvPL • SQL Server • Python
+
+Do **financeiro corporativo para a consultoria técnica**: passei mais de 3 anos operando o Protheus por dentro — tesouraria, contas a pagar, conciliação DDA — antes de migrar para o outro lado do balcão. Hoje, na **Genesis Consulting**, presto consultoria e sustentação ao ERP, unindo o que a maioria dos perfis técnicos não tem: **domínio real da regra de negócio que o código precisa atender**.
 
 ---
 
-### 📊 Sobre Mim
+## 💼 O que eu entrego
 
-Impulsionado a transformar dados em decisões, estou em transição de carreira para Análise de Dados. Minha experiência financeira me prepara para aprofundar em SQL, Power BI (dashboards, DAX) e Python (Pandas, NumPy, Matplotlib, Seaborn). Busco estágio para aplicar minha bagagem e entregar insights valiosos.
+- **Consultoria e sustentação Protheus** — análise e resolução de incidentes, evolução de rotinas e apoio funcional/técnico ao módulo financeiro (SIGAFIN).
+- **Desenvolvimento AdvPL/TLPP** — customizações, pontos de entrada e relatórios alinhados à regra de negócio, não só ao chamado.
+- **Banco de dados (SQL Server)** — queries de conciliação, análise de dados do ERP e apoio a diagnósticos de inconsistência.
 
----
+> Meu diferencial: já fui o usuário que abre o chamado. Sei traduzir a dor do financeiro em requisito técnico — e entregar a solução de ponta a ponta.
 
-### 🧠 Principais Habilidades
+## 🧰 Stack
 
-<p align="left">
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" alt="Excel" height="40"/>
-  <img src="https://logowik.com/content/uploads/images/azure-sql-database6354.jpg" alt="SQL" height="40"/>
-  <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python" height="40"/>
-  <img src="https://store-images.s-microsoft.com/image/apps.8409.14405452487353876.a6612b1c-3bfc-46da-ad7e-0dd83b65757d.69df8840-e52b-4609-9202-6f2c5f92aea1" alt="Power BI" height="40"/>
-</p>
+![AdvPL](https://img.shields.io/badge/AdvPL%2FTLPP-0B5394?style=for-the-badge)
+![TOTVS Protheus](https://img.shields.io/badge/TOTVS%20Protheus-1B9DD9?style=for-the-badge)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
+**Módulos e processos:** Financeiro (SIGAFIN) · Contas a Pagar · Conciliação DDA/CNAB
 
-### 📈 GitHub Stats
+## 🚀 Em evolução constante
 
-![Emanuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Emanuel71&show_icons=true&theme=radical)
+- 📚 Aprofundando **MVC no Protheus** e **APIs REST (TLPP)** para integrações.
+- 🧩 Criei o [ADVPL Quest](https://github.com/SEU-USUARIO/advpl-quest) — jogo de estudo gamificado de AdvPL, com teoria e exercícios ancorados na TDN.
+- 🗃️ Mantenho uma base de conhecimento pessoal de Protheus (troubleshooting, snippets e dicionário SX) que alimenta minhas entregas em consultoria.
 
----
+## 📫 Contato
 
-### 🔥 Tecnologias Mais Usadas
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINKEDIN)
+[![Gmail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alanlealds@gmail.com)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuel71&layout=compact&theme=radical)
-
----
-
-### 🌐 Vamos Conectar?
-
-Me acompanhe nas redes e fique por dentro dos meus projetos:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuel-cesar)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emanuelcesar026@gmail.com)
-
----
-
-> “Transformando dados em decisões inteligentes.” 🚀
+<!--
+Dica: repositório especial do GitHub — crie um repo público com o MESMO nome do seu usuário
+(ex.: github.com/alan/alan) e coloque este arquivo como README.md na raiz.
+-->
