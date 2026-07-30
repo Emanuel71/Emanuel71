@@ -14,7 +14,7 @@ Do **financeiro corporativo para a consultoria técnica**: passei mais de 3 anos
 
 > Meu diferencial: já fui o usuário que abre o chamado. Sei traduzir a dor do financeiro em requisito técnico — e entregar a solução de ponta a ponta.
 
-## 🧰 Stack
+## 🧰
 
 ![AdvPL](https://img.shields.io/badge/AdvPL%2FTLPP-0B5394?style=for-the-badge)
 ![TOTVS Protheus](https://img.shields.io/badge/TOTVS%20Protheus-1B9DD9?style=for-the-badge)
@@ -24,8 +24,9 @@ Do **financeiro corporativo para a consultoria técnica**: passei mais de 3 anos
 
 **Módulos e processos:** Financeiro (SIGAFIN) · Contas a Pagar · Conciliação DDA/CNAB
 
-## 🚀 Em evolução constante
+## 🚀 Em evolução
 
+- 📚 SIGAFAT, SIGACOM, SIGATAF, SIGAFIS
 - 📚 Aprofundando **MVC no Protheus** e **APIs REST (TLPP)** para integrações.
 - 🧩 Criei o [ADVPL Quest](https://github.com/SEU-USUARIO/advpl-quest) — jogo de estudo gamificado de AdvPL, com teoria e exercícios ancorados na TDN.
 - 🗃️ Mantenho uma base de conhecimento pessoal de Protheus (troubleshooting, snippets e dicionário SX) que alimenta minhas entregas em consultoria.
